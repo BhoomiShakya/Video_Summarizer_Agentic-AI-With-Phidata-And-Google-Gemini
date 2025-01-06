@@ -55,6 +55,11 @@ The **Multimodal AI Agent - Video Summarizer** is a Streamlit-based web applicat
 - **time**: For handling processing delays.
 - **pathlib**: For file operations.
 
+## Screenshots
+![VideoSummarizer](https://github.com/user-attachments/assets/b14e8806-f9ab-40f8-b642-1de789b788fa)
+
+![VideoSummarizer2](https://github.com/user-attachments/assets/d060546f-b09c-4af7-a13c-5a397b032568)
+
 ## Acknowledgments
 - [Streamlit](https://streamlit.io/) for the interactive UI.
 - [Google Generative AI](https://cloud.google.com/generative-ai) for powerful AI capabilities.
